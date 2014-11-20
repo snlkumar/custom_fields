@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = CustomFields::VERSION
   spec.authors       = ["sunil kumar"]
   spec.email         = ["sunil.kumar.14@netsolutionsindia.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{this is for add migration and update schema}
+  spec.description   = %q{this is for add migration and update schema}
   spec.homepage      = ""
   spec.license       = "MIT"
 
